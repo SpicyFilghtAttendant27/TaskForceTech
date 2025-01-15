@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - TaskForceTech</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="/">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+    </header>
+    <nav>
+        <a href="/index.md">Home</a>
+        <a href="/about.md">About Us</a>
+        <a href="/cissp.md">CISSP</a>
+        <a href="/crisc.md">CRISC</a>
+        <a href="/securityplus.md">Security+</a>
+        <a href="/contact.md">Contact Us</a>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>&copy; {{ "now" | date: "%Y" }} TaskForceTech. All rights reserved.</p>
+    </footer>
+</body>
+</html>
