@@ -1,0 +1,6 @@
+title: TaskForceTech
+description: Your Cybersecurity Training Hub for IT Certifications like CISSP, CRISC, and Security+.
+author: TaskForceTech Team
+theme: minima # Use Jekyll's Minima theme
+baseurl: "" # Leave empty if hosted on GitHub Pages
+url: "https://yourusername.github.io/taskforcetech" # Update with your repository's GitHub Pages URL
