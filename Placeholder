@@ -3,11 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Name - TaskForceTech</title>
+    <title>CISSP - TaskForceTech</title>
 </head>
 <body>
-    <h1>Page Under Construction</h1>
-    <p>We’re working hard to provide you with the best resources. Check back soon!</p>
-    <a href="index.html">Return to Home</a>
+    <header>
+        <h1>CISSP Certification</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="cissp.html">CISSP</a>
+        <a href="crisc.html">CRISC</a>
+        <a href="securityplus.html">Security+</a>
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <main>
+        <h2>CISSP Certification Resources</h2>
+        <p>Explore our study guides, practice questions, and tips for achieving your CISSP certification.</p>
+    </main>
 </body>
 </html>
